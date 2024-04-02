@@ -1,7 +1,7 @@
 <?php
 use PHPUnit\Framework\TestCase;
-use Opdracht6\Classes\User;
-use Opdracht6\Classes\Database;
+use Login\Classes\User;
+use Login\Classes\Database;
 
 class LoginTest extends TestCase
 {

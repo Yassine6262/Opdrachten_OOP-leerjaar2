@@ -1,8 +1,8 @@
 {
-    "name": "Yassine/opdracht6_oop",
+    "name": "gebruiker/opdrachten-oo-pleerjaar2",
     "autoload": {
         "psr-4": {
-            "Gebruiker\\Opdracht6Oop\\": "src/"
+            "opdracht8_OOP\\": "src/"
         }
     },
     "authors": [

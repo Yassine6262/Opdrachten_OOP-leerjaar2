@@ -1,7 +1,7 @@
 <?php
     // Functie: classdefinitie User 
     // Auteur: Wigmans
-    namespace Opdracht6\classes;
+    namespace Login\classes;
     
     use Opdracht6\classes\Database;
     use PDO;

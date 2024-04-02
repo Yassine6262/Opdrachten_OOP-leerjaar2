@@ -1,0 +1,1 @@
+{"version":1,"defects":{"LoginTest::testConnect":8,"LoginTest::testExecuteQuery":8,"LoginTest::testRegisterUser":8,"LoginTest::testValidateUser":8,"LoginTest::testLoginUser":8,"LoginTest::testIsLoggedIn":8,"LoginTest::testGetUser":8,"LoginTest::testLogoutUser":8},"times":[]}
